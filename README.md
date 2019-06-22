@@ -31,7 +31,7 @@ import { validate } from './validate';
 
 function Form() {
 
-  let login = () => {
+  let callback = () => {
     // submit values
   }
 
@@ -40,7 +40,7 @@ function Form() {
     handleSubmit,
     values,
     errors,
-  } = useForm(login, validate)
+  } = useForm(callback, validate)
 
   return (
     <React.Fragment>
