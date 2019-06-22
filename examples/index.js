@@ -2,7 +2,7 @@ import React from 'react';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import useForm from './hooks/useForm';
+import useForm from 'form-react-hooks';
 import { validate } from './validate';
 
 function Form() {
