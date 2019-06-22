@@ -16,7 +16,7 @@ Make form easily with react hooks
 ## Installation
 
 ```shell
-npm i --save    form-react-hooks
+npm i --save form-react-hooks
 ```
 
 ## Usage
