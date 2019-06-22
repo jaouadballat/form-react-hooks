@@ -18,9 +18,7 @@
     "react",
     "hooks",
     "form",
-    "useForm",
-    "onSubmit",
-    "onChange "
+    "useForm"
   ],
   "author": "jaouad ballat",
   "license": "ISC",
