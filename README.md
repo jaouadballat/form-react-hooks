@@ -1,8 +1,8 @@
 <h1 align="center">
-⚡ useForm
+useForm
 </h1>
 <p align="center">
-Form hook made blazing fast and easy.
+Make form easily with react hooks
 </p>
 
 
@@ -18,10 +18,10 @@ npm i --form-react-hooks
 
 ### Form
 
-check [basic example](https://github.com/jaouadballat/form-react-hooks/blob/master/examples/basic/index.js)
+check [basic example](https://github.com/jaouadballat/form-react-hooks/blob/master/examples/index.js)
 
 ```jsx
-import useForm from './hooks/useForm';
+import useForm from 'form-react-hooks';
 import { validate } from './validate';
 
 function Form() {
