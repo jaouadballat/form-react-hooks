@@ -2,6 +2,11 @@
 useForm
 </h1>
 <p align="center">
+    <a href="https://github.com/jaouadballat/form-react-hooks/blob/master/LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+    </a>
+</p>
+<p align="center">
 Make form easily with react hooks
 </p>
 
@@ -11,7 +16,7 @@ Make form easily with react hooks
 ## Installation
 
 ```shell
-npm i --save form-react-hooks
+npm i --save    form-react-hooks
 ```
 
 ## Usage
