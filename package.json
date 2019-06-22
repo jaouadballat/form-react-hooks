@@ -1,11 +1,11 @@
 {
   "name": "form-react-hooks",
   "version": "1.0.1",
-  "description": "",
+  "description": "The most simple react form hook.",
   "main": "build/index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jaouadballat/form-react-hooks/"
   },
   "peerDependencies": {
     "react": "^16.8.6"
