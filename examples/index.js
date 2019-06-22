@@ -7,7 +7,7 @@ import { validate } from './validate';
 
 function Form() {
 
-    let login = () => {
+    let callback = () => {
         console.log(values)
     }
 
@@ -16,7 +16,7 @@ function Form() {
         handleSubmit,
         values,
         errors,
-    } = useForm(login, validate)
+    } = useForm(callback, validate)
 
     return (
         <React.Fragment>
